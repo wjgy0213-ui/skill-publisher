@@ -1,0 +1,10 @@
+{
+  "skill_id": "",
+  "skill_name": "Skill Publisher",
+  "version": "1.0.0",
+  "defaults": {
+    "github_org": "wjgy0213-ui",
+    "skillpay_url": "https://skillpay.me/dashboard/skills",
+    "default_price": 0.50
+  }
+}
